@@ -1,16 +1,26 @@
-## Hi there 👋
+#<div align="centre"> 👋Hi,I'm
+*Sakshi Patil*</div>
 
-<!--
-**sakshipatilm/Sakshipatilm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+##👀profile visitors:
+![visitor count]https://komarev.com/ghpvc/?username=sakshimp&color=blue&style=for-the-badge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+###💻 About Me
+I'm a *student*
+currently building modern and responsive website.
+passionate about * creating efficient web applications*and * digital marketing*.
+Exploring new technologies and improving my skills .
+Reach me at:
+*sakshipatil20070522@gmail.com*
+
+---
+##🌐socials
+[![Instagram ]https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sakshi_1_0_1/
+
+---
+
+##💻 Tech Stack
+![Python]https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
